@@ -8,7 +8,8 @@ first in root folder
 
 Then enter the 
 >>cd frontend (and) 
->>npm install
+>>npm install --force
+
 
 
 To Run This 
