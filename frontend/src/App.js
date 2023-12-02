@@ -58,7 +58,7 @@ function App(props) {
               <Route path="/aboutus" element={<AccScreen />} />
               <Route path="/login" element={<LoginScreen />} />
               <Route path="/wishlist" element={<Wishlist />} />
-              <Route path="/register" element={<RegisterScreen />} />\
+              <Route path="/register" element={<RegisterScreen />} />
               <Route path="/profile" element={<ProfileScreen />} />
               <Route path="/product/:id" element={<ProductScreen />} />
 
